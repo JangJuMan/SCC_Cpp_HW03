@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HOME\\Desktop\\SCC\\PS_cpp\\SCC_PS_HW03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE72577-2883-41E2-AD81-4F5199026298}|SCC_PS_HW03\\SCC_PS_HW03.vcxproj|C:\\Users\\HOME\\Desktop\\SCC\\PS_cpp\\SCC_PS_HW03\\SCC_PS_HW03\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE72577-2883-41E2-AD81-4F5199026298}|SCC_PS_HW03\\SCC_PS_HW03.vcxproj|solutionrelative:SCC_PS_HW03\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAE72577-2883-41E2-AD81-4F5199026298}|SCC_PS_HW03\\SCC_PS_HW03.vcxproj|C:\\Users\\HOME\\Desktop\\SCC\\PS_cpp\\SCC_PS_HW03\\SCC_PS_HW03\\SimpleVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAE72577-2883-41E2-AD81-4F5199026298}|SCC_PS_HW03\\SCC_PS_HW03.vcxproj|solutionrelative:SCC_PS_HW03\\SimpleVector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SimpleVector.h",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\SCC\\PS_cpp\\SCC_PS_HW03\\SCC_PS_HW03\\SimpleVector.h",
+              "RelativeDocumentMoniker": "SCC_PS_HW03\\SimpleVector.h",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\SCC\\PS_cpp\\SCC_PS_HW03\\SCC_PS_HW03\\SimpleVector.h",
+              "RelativeToolTip": "SCC_PS_HW03\\SimpleVector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-05T10:41:33.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\HOME\\Desktop\\SCC\\PS_cpp\\SCC_PS_HW03\\SCC_PS_HW03\\main.cpp",
+              "RelativeDocumentMoniker": "SCC_PS_HW03\\main.cpp",
+              "ToolTip": "C:\\Users\\HOME\\Desktop\\SCC\\PS_cpp\\SCC_PS_HW03\\SCC_PS_HW03\\main.cpp",
+              "RelativeToolTip": "SCC_PS_HW03\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T10:40:12.427Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
